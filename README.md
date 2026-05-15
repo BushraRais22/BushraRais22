@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey there, I am Bushra:
 Software Engineering student with a broad interest in software development, from designing user interfaces to <br>building robust back-end systems. Curious about the entire development lifecycle, including testing, deployment, and <br>maintenance. Eager to explore diverse technologies and contribute to impactful, real-world projects
 
 
